@@ -1,3 +1,0 @@
-interface ThreePointPlug {
-	void plugIn();
-}
